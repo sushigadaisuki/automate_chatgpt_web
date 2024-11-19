@@ -1,5 +1,5 @@
 # This is ...
-Chat on ChatGPT Web can be automated.  
+Automate ChatGPT Web.  
 You can send chats from the console.  
 
 ![](./imgs/img1.gif)
