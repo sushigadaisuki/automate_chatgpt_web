@@ -8,7 +8,7 @@ You can send chats from the console.
 1. Install tampermonky (This plugin work on tampermonkey)  
     ref: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 2. Install this plugin  
-    ref: [cgpt_automate.user.js](./cgpt_automate.user.js)
+    ref: [cgpt_automate.user.js](https://github.com/sushigadaisuki/automate_chatgpt_web/raw/refs/heads/master/cgpt_automate.user.js)
 
 # How to use
 Functions:
